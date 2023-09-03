@@ -17,3 +17,4 @@ void simon(int n){ //simon()함수를 정의한다.
     using namespace std;
     cout<<"Simon 월,발기락을 "<<n<<"번 두드려다."<<endl;
 }   //void형 함수에는 return 구문이 필요없다.
+//박해민!박해빈!박해민!박해민!박해민!
